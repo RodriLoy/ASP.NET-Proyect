@@ -1,0 +1,38 @@
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\Dotnet ASP.NET.exe
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\Dotnet ASP.NET.deps.json
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\Dotnet ASP.NET.runtimeconfig.json
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\Dotnet ASP.NET.runtimeconfig.dev.json
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\Dotnet ASP.NET.dll
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\Dotnet ASP.NET.pdb
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\Dotnet ASP.NET.Views.dll
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\Dotnet ASP.NET.Views.pdb
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.RazorAssemblyInfo.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.RazorAssemblyInfo.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.TagHelpers.input.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.TagHelpers.output.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.RazorCoreGenerate.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.RazorTargetAssemblyInfo.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.RazorTargetAssemblyInfo.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.Views.pdb
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\Dotnet ASP.NET.StaticWebAssets.Manifest.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\staticwebassets\Dotnet ASP.NET.StaticWebAssets.xml
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.dll
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.pdb
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.genruntimeconfig.cache
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.csproj.CopyComplete
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Escuela\Index.cshtml.g.cs
