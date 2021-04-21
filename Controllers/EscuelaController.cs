@@ -9,9 +9,14 @@ namespace Dotnet_ASP.NET.Controllers
         public IActionResult Index()
         {
             var escuela = new Escuela();
-            escuela.AñoFundación = 2005;
-            escuela.EscuelaId = Guid.NewGuid().ToString();
+            escuela.AñoDeCreación = 2005;
+            escuela.UniqueId = Guid.NewGuid().ToString();
             escuela.Nombre = "Platzi School";
+            escuela.Ciudad = "Bogota";
+            escuela.Pais = "Colombia";
+            escuela.Dirección = "Av Siempre viva";
+            escuela.TipoEscuela = TiposEscuela.Secundaria;
+            ViewBag.CosaDinamica = "La Monja";
             return View(escuela);
         }
     }

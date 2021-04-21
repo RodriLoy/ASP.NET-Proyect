@@ -36,3 +36,10 @@ C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET
 C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.genruntimeconfig.cache
 C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Dotnet ASP.NET.csproj.CopyComplete
 C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Escuela\Index.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Simple.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Asignatura\Index.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Asignatura\MultiAsignatura.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ObjetoEscuelaSimple.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Alumno\Index.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Alumno\MultiAlumno.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ListaObjetoEscuela.cshtml.g.cs

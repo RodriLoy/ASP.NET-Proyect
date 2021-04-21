@@ -1,0 +1,26 @@
+﻿@* ESTO ES UN COMENTARIO *@
+@model List<Asignatura>
+
+@{
+    ViewData["Title"] = "Información Asignatura";
+    Layout = "Simple";
+}
+<h1>@ViewData["Title"] </h1>
+
+<strong> Desde la vista normal </strong>
+
+
+<strong> Desde la vista parcial </strong>
+
+
+<partial name="ListaObjetoEscuela" />
+
+@* cuando no se utilizaba la mismaplantilla para imprimir todos y era individual *@
+@* @foreach (var asignatura in Model)
+    {
+    <partial name="ObjetoEscuelaSimple" model="asignatura" />
+    } *@
+
+
+
+<p><i>@ViewBag.Fecha</i></p>
