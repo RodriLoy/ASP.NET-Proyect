@@ -1,5 +1,8 @@
-﻿@* ESTO ES UN COMENTARIO *@
-@model List<Alumno>
+﻿@* ESTO ES UN COMENTARIO
+    SE COMENTA ESTO YA QUEDA ERROR CON LA BASE DE DATOS PORQUE ESPERA UNA LISTA, SE PONE UN IENUMERABLE, YA QUE IENUMERABLE
+    ES UN TIPO DE LISTA MAS ABASTRACTO Y LISTA ES MAS CONCRETO
+    @model List<Alumno> *@
+@model IEnumerable<Alumno>
 
 @{
     ViewData["Title"] = "Información Alumno";

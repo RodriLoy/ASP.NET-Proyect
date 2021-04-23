@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using Dotnet_ASP.NET.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
@@ -9,42 +10,42 @@ namespace Dotnet_ASP.NET.Controllers
     {
         public IActionResult Index()
         {
-            return View(
-                new Asignatura
-                {
-                    Nombre = "Matemáticas",
-                    UniqueId = Guid.NewGuid().ToString()
-                });
+            return View(_context.Asignaturas.FirstOrDefault());
         }
         public IActionResult MultiAsignatura()
         {
-            var listaAsignaturas = new List<Asignatura>() {
-                new Asignatura {
-                Nombre = "Matemáticas",
-                UniqueId = Guid.NewGuid ().ToString ()
-                },
-                new Asignatura {
-                Nombre = "Educación Física",
-                UniqueId = Guid.NewGuid ().ToString ()
-                },
-                new Asignatura {
-                Nombre = "Castellano",
-                UniqueId = Guid.NewGuid ().ToString ()
-                },
-                new Asignatura {
-                Nombre = "Ciencias Naturales",
-                UniqueId = Guid.NewGuid ().ToString ()
-                },
-                new Asignatura {
-                Nombre = "Programacion",
-                UniqueId = Guid.NewGuid ().ToString ()
-                }
-            };
+            // var listaAsignaturas = new List<Asignatura>() {
+            //     new Asignatura {
+            //     Nombre = "Matemáticas",
+            //     Id = Guid.NewGuid ().ToString ()
+            //     },
+            //     new Asignatura {
+            //     Nombre = "Educación Física",
+            //     Id = Guid.NewGuid ().ToString ()
+            //     },
+            //     new Asignatura {
+            //     Nombre = "Castellano",
+            //     Id = Guid.NewGuid ().ToString ()
+            //     },
+            //     new Asignatura {
+            //     Nombre = "Ciencias Naturales",
+            //     Id = Guid.NewGuid ().ToString ()
+            //     },
+            //     new Asignatura {
+            //     Nombre = "Programacion",
+            //     Id = Guid.NewGuid ().ToString ()
+            //     }
+            // };
 
             ViewBag.CosaDinamica = "La Monja";
             ViewBag.Fecha = DateTime.Now;
 
-            return View("MultiAsignatura", listaAsignaturas);
+            return View("MultiAsignatura", _context.Asignaturas);
+        }
+        private EscuelaContext _context;
+        public AsignaturaController(EscuelaContext context)
+        {
+            _context = context;
         }
     }
 }

@@ -14402,6 +14402,11 @@
   "RootNamespace": "Dotnet_ASP.NET",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "TargetPath": "Views\\Shared\\ListaObjetoEscuela.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -14422,13 +14427,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Asignatura\\MultiAsignatura.cshtml",
+      "TargetPath": "Views\\Asignatura\\MultiAsignatura.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Alumno\\Index.cshtml",
+      "TargetPath": "Views\\Alumno\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Alumno\\MultiAlumno.cshtml",
+      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
       "FileKind": "mvc"
     },
     {

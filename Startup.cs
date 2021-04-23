@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.EntityFrameworkCore;
+using Dotnet_ASP.NET.Models;
 
 namespace Dotnet_ASP.NET
 {
@@ -24,6 +26,12 @@ namespace Dotnet_ASP.NET
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            //CONFIGURARACION BASE DE DATOS
+
+            services.AddDbContext<EscuelaContext>(
+                options => options.UseInMemoryDatabase(databaseName: "testDb")
+            );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
