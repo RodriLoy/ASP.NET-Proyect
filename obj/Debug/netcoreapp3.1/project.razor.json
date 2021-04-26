@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Asignatura\\Create.cshtml",
+      "TargetPath": "Views\\Asignatura\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -14437,13 +14442,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Curso\\Edit.cshtml",
+      "TargetPath": "Views\\Curso\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Alumno\\Index.cshtml",
       "TargetPath": "Views\\Alumno\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Curso\\Index.cshtml",
+      "TargetPath": "Views\\Curso\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Alumno\\Create.cshtml",
+      "TargetPath": "Views\\Alumno\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
       "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Curso\\Create.cshtml",
+      "TargetPath": "Views\\Curso\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14462,6 +14487,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Asignatura\\Edit.cshtml",
+      "TargetPath": "Views\\Asignatura\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -14469,6 +14499,11 @@
     {
       "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Shared\\Simple.cshtml",
       "TargetPath": "Views\\Shared\\Simple.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Rodrigo\\Documents\\Dotnet ASP.NET\\Views\\Curso\\MultiCurso.cshtml",
+      "TargetPath": "Views\\Curso\\MultiCurso.cshtml",
       "FileKind": "mvc"
     },
     {

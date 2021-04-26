@@ -84,3 +84,10 @@ C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win-x
 C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Rodrigo\Documents\Dotnet ASP.NET\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\scopedcss\bundle\Dotnet ASP.NET.styles.css
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Curso\Index.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Curso\MultiCurso.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Curso\Create.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Curso\Edit.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Asignatura\Create.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Asignatura\Edit.cshtml.g.cs
+C:\Users\Rodrigo\Documents\Dotnet ASP.NET\obj\Debug\netcoreapp3.1\Razor\Views\Alumno\Create.cshtml.g.cs

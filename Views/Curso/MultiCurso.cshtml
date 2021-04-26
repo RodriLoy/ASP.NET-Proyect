@@ -1,0 +1,21 @@
+﻿@* ESTO ES UN COMENTARIO
+    SE COMENTA ESTO YA QUEDA ERROR CON LA BASE DE DATOS PORQUE ESPERA UNA LISTA, SE PONE UN IENUMERABLE, YA QUE IENUMERABLE
+    ES UN TIPO DE LISTA MAS ABASTRACTO Y LISTA ES MAS CONCRETO
+    @model List<Alumno> *@
+@model IEnumerable<Curso>
+
+@{
+    ViewData["Title"] = "Información Curso";
+    Layout = "Simple";
+}
+<h1>@ViewData["Title"] </h1>
+
+<strong> Desde la vista normal </strong>
+
+
+<strong> Desde la vista parcial </strong>
+
+<partial name="ListaObjetoEscuela" />
+
+
+<p><i>@ViewBag.Fecha</i></p>

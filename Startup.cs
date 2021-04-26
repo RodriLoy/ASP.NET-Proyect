@@ -28,10 +28,20 @@ namespace Dotnet_ASP.NET
             services.AddControllersWithViews();
 
             //CONFIGURARACION BASE DE DATOS
+            //BASE DE DATOS EN MEMORIA                              
+            // services.AddDbContext<EscuelaContext>(
+            //     options => options.UseInMemoryDatabase(databaseName: "testDb")
+            // );
 
+            //Conexión por sql server
+            string connString =
+            ConfigurationExtensions.GetConnectionString
+            (this.Configuration, "DefaultConnectionString");
             services.AddDbContext<EscuelaContext>(
-                options => options.UseInMemoryDatabase(databaseName: "testDb")
+                options => options.UseSqlServer(connString)
             );
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

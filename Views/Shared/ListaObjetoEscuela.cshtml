@@ -11,6 +11,8 @@
         <tr>
             <th scope="col">Id</th>
             <th scope="col">Nombre</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
         </tr>
     </thead>
     <tbody>
@@ -19,6 +21,9 @@
             <tr>
                 <td>@obj.Id</td>
                 <td>@obj.Nombre</td>
+                <td>@Html.ActionLink("Editar", "Edit", new { id = obj.Id })</td>
+                <td>@Html.ActionLink("Eliminar", "Delete", new { id = obj.Id })</td>
+                <td></td>
             </tr>
         }
     </tbody>

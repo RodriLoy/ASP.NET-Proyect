@@ -1,0 +1,21 @@
+﻿@* ESTO ES UN COMENTARIO *@
+@model Asignatura
+
+@{
+    ViewData["Title"] = "Creación de Asignatura";
+    Layout = "Simple";
+}
+
+@* PARA QUE APARESCA EL ERROR EN HTML *@
+<div asp-validation-summary="All"></div>
+<form method="POST">
+    <div>
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre">
+    </div>
+
+    <input type="submit" />
+</form>
+
+
+<p><i>@ViewBag.Fecha</i></p>

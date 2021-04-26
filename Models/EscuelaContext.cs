@@ -50,8 +50,6 @@ namespace Dotnet_ASP.NET.Models
             //Sembrar A LA BD ALUMNOS
             modelBuilder.Entity<Alumno>().HasData(alumnos.ToArray());
 
-
-
             // modelBuilder.Entity<Asignatura>().HasData(
             //     new Asignatura
             //     {
@@ -123,11 +121,17 @@ namespace Dotnet_ASP.NET.Models
                           Nombre = "101",
                           Id = Guid.NewGuid().ToString(),
                           Jornada = TiposJornada.Mañana,
-                          EscuelaId = escuela.Id},
-                new Curso{Nombre = "201", Id = Guid.NewGuid().ToString(), Jornada = TiposJornada.Mañana, EscuelaId = escuela.Id},
-                new Curso{Nombre = "301", Id = Guid.NewGuid().ToString(), Jornada = TiposJornada.Mañana, EscuelaId = escuela.Id},
-                new Curso{Nombre = "401", Id = Guid.NewGuid().ToString(), Jornada = TiposJornada.Mañana, EscuelaId = escuela.Id},
-                new Curso{Nombre = "501", Id = Guid.NewGuid().ToString(), Jornada = TiposJornada.Mañana, EscuelaId = escuela.Id}
+                          EscuelaId = escuela.Id,
+                          Dirección = "Avenida siempre viva"},
+                new Curso{
+                            Nombre = "201",
+                            Id = Guid.NewGuid().ToString(),
+                            Jornada = TiposJornada.Mañana,
+                            EscuelaId = escuela.Id,
+                            Dirección = "Avenida siempre viva"},
+                new Curso{Nombre = "301", Id = Guid.NewGuid().ToString(), Jornada = TiposJornada.Mañana, EscuelaId = escuela.Id, Dirección = "Avenida siempre viva"},
+                new Curso{Nombre = "401", Id = Guid.NewGuid().ToString(), Jornada = TiposJornada.Mañana, EscuelaId = escuela.Id, Dirección = "Avenida siempre viva"},
+                new Curso{Nombre = "501", Id = Guid.NewGuid().ToString(), Jornada = TiposJornada.Mañana, EscuelaId = escuela.Id, Dirección = "Avenida siempre viva"}
             };
         }
 
